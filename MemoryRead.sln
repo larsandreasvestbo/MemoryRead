@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleApplication", "SimpleApplication\SimpleApplication.csproj", "{77362416-0C1B-491E-B444-80FC42DF95F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryReader", "MemoryReader\MemoryReader.csproj", "{1C937018-24E6-4DB3-B5AB-5CC1E8BB6D33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77362416-0C1B-491E-B444-80FC42DF95F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77362416-0C1B-491E-B444-80FC42DF95F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77362416-0C1B-491E-B444-80FC42DF95F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77362416-0C1B-491E-B444-80FC42DF95F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C937018-24E6-4DB3-B5AB-5CC1E8BB6D33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C937018-24E6-4DB3-B5AB-5CC1E8BB6D33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C937018-24E6-4DB3-B5AB-5CC1E8BB6D33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C937018-24E6-4DB3-B5AB-5CC1E8BB6D33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
